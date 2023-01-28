@@ -1,4 +1,6 @@
+<p align="center">
 ## Hi there 👋 I'm Vignesh
+</p>
 
 <!--
 **viggy-ravi/viggy-ravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
